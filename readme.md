@@ -1,5 +1,5 @@
 ## LearnEd (E-learning Website)
-An educational website for students and programmers 😊😊😊  
+An educational website for all those who wants to learn from comfortof their home. 😊😊😊  
 
 ![](pcView.png)
 
